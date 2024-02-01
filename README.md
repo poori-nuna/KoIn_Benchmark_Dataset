@@ -1,5 +1,7 @@
 ## KoIn_Benchmark_Dataset - Korean Influencer
 
+[![arXiv](https://img.shields.io/badge/arXiv-2208.11613-b31b1b.svg)](https://arxiv.org/abs/2310.09756)
+
 ### New Benchmarks for Asian Facial Recognition Tasks: Face Classification with Large Foundation Models
 * This repository provides Korean Influencer(KoIN) Dataset and PyTorch implementations for Image Classification models.
 
